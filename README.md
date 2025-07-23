@@ -1,6 +1,3 @@
-Got you, Yaswanth 🔥
-Here’s a full **professional and clean `README.md`** for your **Fire Detection & Alert System** repo — just copy and paste it as-is 👇
-
 ---
 
 ````markdown
@@ -103,7 +100,7 @@ Make sure to:
 B.Tech – Computer Science & Engineering
 Narasaraopet Engineering College
 
-[Portfolio](#) | [LinkedIn](#) | [Email](mailto:yaswanthgunda12345@gmail.com)
+[Portfolio](#) | [LinkedIn](https://www.linkedin.com/in/yaswanthgunda0068/) | [Email](mailto:yaswanthgunda12345@gmail.com)
 
 ---
 
