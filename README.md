@@ -1,6 +1,3 @@
----
-
-````markdown
 # 🔥 Real-Time Fire Detection & Alert System
 
 A real-time fire and smoke detection system using a custom YOLOv5 model. Built with OpenCV and PyTorch, it monitors live camera feeds to detect fire or smoke and instantly sends email alerts and automated phone calls using Twilio. Designed for early fire detection and emergency response.
