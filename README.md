@@ -115,8 +115,3 @@ Narasaraopet Engineering College
 If you like this project, consider giving it a ⭐️ to support and inspire more awesome projects like this!
 
 ```
-
----
-
-Let me know if you want me to **customize** the links (LinkedIn, GitHub repo URL, etc.) or generate the `requirements.txt` file too!
-```
